@@ -1,0 +1,32 @@
+2025-12-04 11:58:58,300 - INFO - START docling =============================================
+2025-12-04 11:58:58,300 - INFO - START docling Start Time = 2025-12-04 11:58:58
+2025-12-04 11:58:58,300 - INFO - docling Step 0 - Initialize the configuration file parser
+2025-12-04 11:58:58,304 - INFO - Process docling Step 0 - Initializing and starting Logging Process.
+2025-12-04 11:59:48,345 - WARNING - From C:\Users\josep\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-12-04 12:03:34,665 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2025-12-04 12:03:34,762 - INFO - Going to convert document batch...
+2025-12-04 12:03:34,775 - INFO - Initializing pipeline for StandardPdfPipeline with options hash 44ae89a68fc272bc7889292e9b5a1bad
+2025-12-04 12:03:34,885 - INFO - Loading plugin 'docling_defaults'
+2025-12-04 12:03:34,885 - INFO - Registered picture descriptions: ['vlm', 'api']
+2025-12-04 12:03:34,980 - INFO - Loading plugin 'docling_defaults'
+2025-12-04 12:03:34,980 - INFO - Registered ocr engines: ['auto', 'easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2025-12-04 12:03:35,469 - INFO - Accelerator device: 'cpu'
+2025-12-04 12:03:36,086 - INFO - Auto OCR model selected rapidocr with onnxruntime.
+2025-12-04 12:03:36,632 - INFO - Accelerator device: 'cpu'
+2025-12-04 12:03:38,750 - INFO - Accelerator device: 'cpu'
+2025-12-04 12:03:39,249 - INFO - Processing document 7.4 GPI Project Team Staffing.pdf
+2025-12-04 12:03:42,277 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:04:01,907 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:05:15,201 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:06:21,193 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:06:45,710 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:08:01,738 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:08:51,698 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:11:10,723 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:11:17,533 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:11:49,422 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:11:59,238 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:12:37,982 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:13:15,584 - WARNING - RapidOCR returned empty result!
+2025-12-04 12:13:56,912 - INFO - Finished converting document 7.4 GPI Project Team Staffing.pdf in 622.28 sec.
