@@ -1,0 +1,28 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-19 16:27:27,600 - INFO - START docling =============================================
+2025-11-19 16:27:27,601 - INFO - START docling Start Time = 2025-11-19 16:27:27
+2025-11-19 16:27:27,601 - INFO - docling Step 0 - Initialize the configuration file parser
+2025-11-19 16:27:27,601 - INFO - Process docling Step 0 - Initializing and starting Logging Process.
+2025-11-19 16:27:27,632 - INFO - PERFORMANCE docling The total process duration was:0.03
+2025-11-19 16:27:27,634 - INFO - PERFORMANCE docling Stop Time = 2025-11-19 16:27:27
+2025-11-19 16:27:27,634 - INFO - PERFORMANCE docling Short process duration less than 3 Seconds:0.03
+2025-11-19 16:27:27,634 - INFO - PERFORMANCE docling Performance optimization is not reccomended
+2025-11-19 16:27:27,635 - INFO - END docling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-19 17:54:44,130 - INFO - START docling =============================================
+2025-11-19 17:54:44,131 - INFO - START docling Start Time = 2025-11-19 17:54:44
+2025-11-19 17:54:44,131 - INFO - docling Step 0 - Initialize the configuration file parser
+2025-11-19 17:54:44,131 - INFO - Process docling Step 0 - Initializing and starting Logging Process.
+2025-11-19 17:54:44,177 - INFO - PERFORMANCE docling The total process duration was:0.05
+2025-11-19 17:54:44,178 - INFO - PERFORMANCE docling Stop Time = 2025-11-19 17:54:44
+2025-11-19 17:54:44,179 - INFO - PERFORMANCE docling Short process duration less than 3 Seconds:0.05
+2025-11-19 17:54:44,179 - INFO - PERFORMANCE docling Performance optimization is not reccomended
+2025-11-19 17:54:44,179 - INFO - END docling =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
